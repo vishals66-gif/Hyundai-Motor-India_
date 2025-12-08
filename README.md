@@ -179,5 +179,3 @@ The dashboard image is included in the project folder as:
 ## ✔️ Conclusion
 
 This Power BI project demonstrates strong understanding of business analytics using real-world sales data. It covers essential skills required for analytics roles, including DAX, modeling, and visualization design.
-
-Feel free to reuse or extend the dashboard for deeper insights!
