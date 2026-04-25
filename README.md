@@ -2,14 +2,26 @@
 Power BI- Project
 # Hyundai Motor India — Power BI Project (README)
 
-📌 Project Overview
+Key Insights
+
+SUV / specific models contribute the highest share of total sales
+Sales distribution varies significantly across states
+Certain colors show higher customer preference
+Employee salary varies widely across job roles and levels
+Sales trends indicate potential seasonal or demand-based patterns
+
+Business Impact
+
+This dashboard helps identify high-performing products, regional trends, and customer preferences, supporting better strategic and sales decisions
+
+Project Overview
 
 This project showcases a complete **Power BI dashboard** built using a dataset from **Hyundai Motor India**. The goal was to analyze sales performance across various dimensions such as vehicle models, color, gender, state, job roles, transmission types, and employee salary insights.
 
 The dashboard presents a clean, interactive, and visually appealing analytical report that highlights key KPIs, trends, and comparisons.
 
 
-🎯 Key Objectives
+Key Objectives
 
 * Understand and apply **Data Cleaning**, **Data Shaping**, and **Data Transformation** using **Power Query Editor**.
 * Build a professional-level dashboard using **Data Modeling**, **DAX Measures**, and **visualization best practices**.
@@ -17,7 +29,7 @@ The dashboard presents a clean, interactive, and visually appealing analytical r
 
 
 
-DAY 1 - Dataset Description
+Dataset Description
 
 The dataset includes:
 
@@ -36,7 +48,7 @@ The dataset includes:
 
   <img width="1920" height="1080" alt="DATASET" src="https://github.com/user-attachments/assets/6eafd56e-b000-416f-8b7d-f84339580a81" />
 
-DAY 2-Data Cleaning (Power Query Editor)
+Data Cleaning (Power Query Editor)
 
 * Removed duplicates
 * Handled missing values
@@ -48,7 +60,7 @@ DAY 2-Data Cleaning (Power Query Editor)
 CLEANED DATA
 <img width="1920" height="1080" alt="CLEANED DATA" src="https://github.com/user-attachments/assets/8301f458-d476-4887-ab74-b37dbc8a12ec" />
 
-DAT 3 – Data Shaping & Transformation (Power Query Editor)
+Data Shaping & Transformation (Power Query Editor)
 
 Transformations Applied:
 
@@ -61,7 +73,7 @@ Applied Steps Query Dependency View Group By Parameter creation (if needed)
 Outcome:
 A well-structured dataset optimized for modelling.
 
-DAY 4 – Data Modelling (Building the Foundation)
+Data Modelling (Building the Foundation)
 
 Data Modelling Steps:
 
@@ -76,7 +88,7 @@ Hid unnecessary columns in report view. Ensured surrogate keys or unique identif
  Outcome:
 A robust and well-structured data model supporting efficient analysis
 
-DAY-5  DAX Measures & Queries Created
+DAX Measures & Queries Created
 
 Some examples:
 
@@ -110,7 +122,7 @@ Some examples:
   
 ---
 
-DAY - 6 📊 Dashboard Features
+Dashboard Features
 
 The dashboard includes:
 
@@ -137,7 +149,7 @@ The dashboard includes:
 
 
 
-💡 Skills Demonstrated
+Skills Demonstrated
 
 * Power BI Dashboarding
 * Data Cleaning & Shaping
@@ -146,11 +158,7 @@ The dashboard includes:
 * Visual Design & Theme Customization
 * Analytical Storytelling
 
----
-
-🏁 Project Duration
-
-6 Days — including:
+Project 
 
 * Data understanding
 * Cleaning & transformation
@@ -158,14 +166,8 @@ The dashboard includes:
 * DAX writing
 * final dashboard polishing
 
----
-
-📎 Additional Notes
-
 * Custom theme applied for premium UI
 * All visuals made fully interactive
-
----
 
 📁 Screenshot Of Main project & Mini project DASHBOARD
 
@@ -174,8 +176,6 @@ The dashboard image is included in the project folder as:
 
 <img width="1920" height="1080" alt="MINI PROJECT DASHBOARD" src="https://github.com/user-attachments/assets/d03955c0-4e24-49b0-bc69-b77d7a0884a8" />
 
----
-
-## ✔️ Conclusion
+Conclusion
 
 This Power BI project demonstrates strong understanding of business analytics using real-world sales data. It covers essential skills required for analytics roles, including DAX, modeling, and visualization design.
