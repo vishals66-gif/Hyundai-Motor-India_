@@ -1,6 +1,4 @@
-# Hyundai-Motor-India_vishal_24bco466
-Power BI- Project
-# Hyundai Motor India — Power BI Project (README)
+Hyundai Motor India — Power BI Project (README)
 
 Key Insights
 
