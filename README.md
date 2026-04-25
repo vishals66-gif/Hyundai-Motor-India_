@@ -4,11 +4,11 @@ Power BI- Project
 
 Key Insights
 
-SUV / specific models contribute the highest share of total sales
-Sales distribution varies significantly across states
-Certain colors show higher customer preference
-Employee salary varies widely across job roles and levels
-Sales trends indicate potential seasonal or demand-based patterns
+-SUV / specific models contribute the highest share of total sales.
+-Sales distribution varies significantly across states.
+-Certain colors show higher customer preference.
+-Employee salary varies widely across job roles and levels.
+-Sales trends indicate potential seasonal or demand-based patterns.
 
 Business Impact
 
